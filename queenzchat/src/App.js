@@ -11,7 +11,11 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> e6099612efb61141878b3787f43ef371005ae942
 
 })
 
