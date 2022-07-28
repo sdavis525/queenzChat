@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Queenz Chat is a super chat app built with React for the front-end and firebase for the back-end and deployment. I also used google authentification for a secure sign in and out. The background was created by me using canva.
+> Queenz Chat is a super chat app built with React for the front-end and firebase for the back-end and deployment. I also used google authentification for a secure sign in and out. Compatiable with ios and andriod phones. The background was created by me using canva.
 
 
 
